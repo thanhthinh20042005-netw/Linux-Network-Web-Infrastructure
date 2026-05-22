@@ -1,6 +1,6 @@
 #  Linux Network & Web Infrastructure Deployment
 
-Dự án cá nhân (Project 2) mô phỏng quy trình triển khai một Web Server bảo mật trong môi trường doanh nghiệp sử dụng công nghệ ảo hóa Linux và thực hiện đánh giá hiệu năng hệ thống.
+Dự án cá nhân mô phỏng quy trình triển khai một Web Server bảo mật trong môi trường doanh nghiệp sử dụng công nghệ ảo hóa Linux và thực hiện đánh giá hiệu năng hệ thống.
 
  Công nghệ sử dụng
 - **Operating System:** Ubuntu Desktop 24.04 LTS
