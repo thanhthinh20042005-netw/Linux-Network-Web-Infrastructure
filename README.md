@@ -1,5 +1,5 @@
 #  Linux Network & Web Infrastructure Deployment
-[English Version](#-english-version) | [Tiếng Việt](#-tiếng-việt)
+[English](#-english-version) | [Tiếng Việt](#-tiếng-việt)
 
 ---
 
