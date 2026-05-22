@@ -4,8 +4,6 @@
 ---
 
 ## 🇬🇧 English Version
-# Personal Project: Secure Web Server Deployment in a Virtualized Linux Environment
-
 A personal project simulating the deployment process of a secure enterprise-style Web Server using Linux virtualization technology, combined with system performance benchmarking and network evaluation.
 
 ## Technologies Used
