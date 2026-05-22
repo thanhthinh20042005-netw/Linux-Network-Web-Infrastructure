@@ -2,7 +2,7 @@
 
 Dự án cá nhân mô phỏng quy trình triển khai một Web Server bảo mật trong môi trường doanh nghiệp sử dụng công nghệ ảo hóa Linux và thực hiện đánh giá hiệu năng hệ thống.
 
- Công nghệ sử dụng
+ ## Công nghệ sử dụng
 - **Operating System:** Ubuntu Desktop 24.04 LTS
 - **Hypervisor:** Oracle VM VirtualBox
 - **Web Server:** Nginx
